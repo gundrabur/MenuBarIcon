@@ -35,7 +35,12 @@ MenuBarIcon/
 
 1. Clone the repository
 2. Open `MenuBarIcon.xcodeproj` in Xcode
-3. Build and run the project (⌘R)
+3. Add the LaunchAtLogin dependency:
+   - In Xcode, go to File > Add Packages...
+   - Enter package URL: `https://github.com/sindresorhus/LaunchAtLogin`
+   - Click "Add Package"
+   - Select your target and click "Add Package"
+4. Build and run the project (⌘R)
 
 ## Usage
 
