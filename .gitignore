@@ -23,7 +23,6 @@ DerivedData
 Packages/
 Package.pins
 Package.resolved
-*.xcodeproj
 
 # macOS
 .DS_Store
