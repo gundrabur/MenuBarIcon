@@ -12,7 +12,6 @@ A modern macOS menu bar application template built with SwiftUI and AppKit integ
 - 🎨 Custom menu bar icon support
 - ⚙️ Built-in settings window with tabbed interface
 - 🚀 Launch at login functionality
-- 💻 AppKit and SwiftUI bridging example
 
 ## Requirements
 
